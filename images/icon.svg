@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 11.72 12.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+    <symbol id="_拷貝" data-name="拷貝" viewBox="0 0 62.33 64.53">
+      <path class="cls-1" d="M47.89,10.49h-4.64V.25H.25V51.07H16.57v13.21H62.08V24.45l-14.19-13.96Zm-1.35,7.09l7.8,7.68h-7.8v-7.68ZM6.25,45.07V6.25h31v4.24H16.57V45.07H6.25Zm49.83,13.21H22.57V16.49h19.98v12.77h13.53v29.01Z"/>
+    </symbol>
+  </defs>
+  <use width="62.33" height="64.53" transform="scale(.19)" xlink:href="#_拷貝"/>
+</svg>
